@@ -18,11 +18,13 @@ To run the chatbot locally, follow these steps:
 
  Install the necessary dependencies.
    ```bash
-   pip install nltk
+      pip install nltk
 
-1. Run the chatbot script.
-   ```bash
-   python chatbot.py
+
+
+
+
+
 
 
 
